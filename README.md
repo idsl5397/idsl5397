@@ -28,6 +28,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idsl5397)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idsl5397)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)  
+![Top Langs](./profile/top-langs.svg)  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idsl5397/idsl5397/output/github-contribution-grid-snake-dark.svg">
