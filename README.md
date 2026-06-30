@@ -22,6 +22,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=windows)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idsl5397&show_icons=true&theme=radical)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idsl5397)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idsl5397)](https://github.com/anuraghazra/github-readme-stats)
 
