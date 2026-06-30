@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=idsl5397&style=flat-square)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&background=000000&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+PiauPiau.;I+work+in+Kaohsiung." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello%2C+I'm+PiauPiau.;I+work+in+Kaohsiung." alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on **ISHA**
 
@@ -22,7 +22,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=windows)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idsl5397&show_icons=true&theme=radical)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idsl5397)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idsl5397)](https://github.com/anuraghazra/github-readme-stats)
 
