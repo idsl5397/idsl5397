@@ -26,8 +26,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=windows)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idsl5397)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- GitHub Stats - 自動適應主題 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=idsl5397&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117">
