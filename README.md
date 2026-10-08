@@ -26,24 +26,12 @@
 
 ![My Skills](https://skillicons.dev/icons?i=windows)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idsl5397)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idsl5397)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- GitHub Stats - 自動適應主題 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=idsl5397&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=idsl5397&show_icons=true&theme=default&hide_border=true">
-  <img alt="foylaou's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=idsl5397&show_icons=true&theme=default">
-</picture>
-
-<!-- Top Languages - 自動適應主題 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=idsl5397&layout=compact&theme=dark&hide_border=true&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=idsl5397&layout=compact&theme=default&hide_border=true">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idsl5397&layout=compact&theme=default">
-</picture>
-
-<br>
-<!-- 自動適應主題 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idsl5397/idsl5397/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idsl5397/idsl5397/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/idsl5397/idsl5397/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idsl5397/idsl5397/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idsl5397/idsl5397/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/idsl5397/idsl5397/output/github-contribution-grid-snake.svg">
 </picture>
