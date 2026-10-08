@@ -39,3 +39,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=idsl5397&layout=compact&theme=default&hide_border=true">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idsl5397&layout=compact&theme=default">
 </picture>
+
+<br>
+<!-- 自動適應主題 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idsl5397/idsl5397/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idsl5397/idsl5397/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/idsl5397/idsl5397/output/github-snake.svg">
+</picture>
