@@ -20,8 +20,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: idsl5397
-          # 若要包含私人貢獻，改用 secrets.SNAKE_TOKEN（你的 PAT）
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # 若要包含私人貢獻，改用 secrets.SNAKE_TOKEN（你的 PAT） GITHUB_TOKEN
+          github_token: ${{ secrets.SNAKE_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
